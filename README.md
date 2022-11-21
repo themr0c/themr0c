@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 -->
 
 
-![Fabrice Flore-Thébault's GitHub stats](https://github-readme-stats.vercel.app/api?username=themr0c&show_icons=true&theme=highcontrast)
+![Fabrice Flore-Thébault's GitHub stats](https://github-readme-stats.vercel.app/api?username=themr0c&show_icons=true&theme=transparent)
