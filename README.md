@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there 👋 I am Fabrice
+
+* I am currently working on Eclipse Che / Red Hat OpenShift Dev Spaces documentation.
+* I am interested in documentation single-sourcing and testing, #DocOps, #TestTheDocs, #WriteTheDocs, and more specifically #AsciiDoc, #Antora, #HTMLtest, and #Vale.
 
 <!--
 **themr0c/themr0c** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,4 +19,4 @@ Here are some ideas to get you started:
 -->
 
 
-[Fabrice Flore-Thébault's GitHub stats](https://github-readme-stats.vercel.app/api?username=themr0c&show_icons=true&theme=highcontrast)
+![Fabrice Flore-Thébault's GitHub stats](https://github-readme-stats.vercel.app/api?username=themr0c&show_icons=true&theme=highcontrast)
