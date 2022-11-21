@@ -2,6 +2,7 @@
 
 * I am currently working on Eclipse Che / Red Hat OpenShift Dev Spaces documentation.
 * I am interested in documentation single-sourcing and testing, #DocOps, #TestTheDocs, #WriteTheDocs, and more specifically #AsciiDoc, #Antora, #HTMLtest, and #Vale.
+* I am also interested in IT infrastructure automation, #Kubernetes, #Ansible.
 
 <!--
 **themr0c/themr0c** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
