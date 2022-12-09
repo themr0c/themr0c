@@ -1,22 +1,25 @@
 = Hi there 👋 I am Fabrice
 
-* I am currently working on Eclipse Che / Red Hat OpenShift Dev Spaces documentation.
+== Current projects
+
+* link:https://www.eclipse.org/che/docs/[Eclipse Che documentation]
+* link:https://access.redhat.com/documentation/en-us/red_hat_openshift_dev_spaces[Red Hat OpenShift Dev Spaces documentation]
 
 == Interests
 * Documentation as code
 
-** link:https://docs.asciidoctor.org/asciidoc/[AsciiDoc]
-** link:https://docs.asciidoctor.org/[Asciidoctor]
 ** link:https://docs.antora.org/[Antora]
+** link:https://docs.asciidoctor.org/[Asciidoctor]
+** link:https://docs.asciidoctor.org/asciidoc/[AsciiDoc]
 ** link:https://intellij-asciidoc-plugin.ahus1.de/docs/users-guide/index.html[IntelliJ AsciiDoc plugin]
 
 * Testing documentation
+** link:https://github.com/testthedocs/[TestTheDocs]
 ** link:https://github.com/wjdp/htmltest[htmltest]
 ** link:https://vale.sh/docs/vale-cli/[Vale linter]
-** link:https://github.com/testthedocs/[TestTheDocs]
 
 * IT infrastructure automation
-** link:https://kubernetes.io/docs/home/[Kubernetes]
 ** link:https://docs.ansible.com/ansible/latest/index.html[Ansible]
+** link:https://kubernetes.io/docs/home/[Kubernetes]
 
 image::https://github-readme-stats.vercel.app/api?username=themr0c&show_icons=true&theme=transparent[Fabrice Flore-Thébault's GitHub stats]
