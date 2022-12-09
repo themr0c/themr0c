@@ -1,23 +1,22 @@
-### Hi there 👋 I am Fabrice
+= Hi there 👋 I am Fabrice
 
 * I am currently working on Eclipse Che / Red Hat OpenShift Dev Spaces documentation.
-* I am interested in documentation single-sourcing and testing, #DocOps, #TestTheDocs, #WriteTheDocs, and more specifically #AsciiDoc, #Antora, #HTMLtest, and #Vale.
-* I am also interested in IT infrastructure automation, #Kubernetes, #Ansible.
 
-<!--
-**themr0c/themr0c** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+== Interests
+* Documentation as code
 
-Here are some ideas to get you started:
+** link:https://docs.asciidoctor.org/asciidoc/[AsciiDoc]
+** link:https://docs.asciidoctor.org/[Asciidoctor]
+** link:https://docs.antora.org/[Antora]
+** link:https://intellij-asciidoc-plugin.ahus1.de/docs/users-guide/index.html[IntelliJ AsciiDoc plugin]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Testing documentation
+** link:https://github.com/wjdp/htmltest[htmltest]
+** link:https://vale.sh/docs/vale-cli/[Vale linter]
+** link:https://github.com/testthedocs/[TestTheDocs]
 
+* IT infrastructure automation
+** link:https://kubernetes.io/docs/home/[Kubernetes]
+** link:https://docs.ansible.com/ansible/latest/index.html[Ansible]
 
-![Fabrice Flore-Thébault's GitHub stats](https://github-readme-stats.vercel.app/api?username=themr0c&show_icons=true&theme=transparent)
+image::https://github-readme-stats.vercel.app/api?username=themr0c&show_icons=true&theme=transparent[Fabrice Flore-Thébault's GitHub stats]
