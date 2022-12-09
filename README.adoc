@@ -1,4 +1,4 @@
-= Hi there 👋 I am Fabrice
+= Fabrice Flore-Thébault (themr0c)
 
 == Current projects
 
@@ -6,6 +6,7 @@
 * link:https://access.redhat.com/documentation/en-us/red_hat_openshift_dev_spaces[Red Hat OpenShift Dev Spaces documentation]
 
 == Interests
+
 * Documentation as code
 
 ** link:https://docs.antora.org/[Antora]
