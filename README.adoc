@@ -2,11 +2,11 @@
 
 == Current projects
 
-* link:https://podman-desktop.io/docs/intro[Podman Desktop documentation]
 * link:https://access.redhat.com/documentation/en-us/red_hat_openshift_local/[OpenShift Local documentation]
 
 == Previous projects
 
+* link:https://podman-desktop.io/docs/intro[Podman Desktop documentation]
 * link:https://www.eclipse.org/che/docs/[Eclipse Che documentation]
 * link:https://access.redhat.com/documentation/en-us/red_hat_openshift_dev_spaces[Red Hat OpenShift Dev Spaces documentation]
 
