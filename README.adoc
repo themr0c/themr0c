@@ -3,7 +3,7 @@
 == Current projects
 
 * link:https://docs.redhat.com/en/documentation/red_hat_developer_hub/[Red Hat Developer Hub documentation] - link:https://github.com/redhat-developer/red-hat-developers-documentation-rhdh[Source repository]
-* link:https://docs.redhat.com/en/documentation/red_hat_openshift_local/[OpenShift Local documentation] - link:https://github.com/crc-org/crc[Source repository] - link:https://crc.dev/crc/getting_started/getting_started/introducing/[CRC documentation]
+* link:https://crc.dev/docs[CRC documentation]
 
 == Previous projects
 
