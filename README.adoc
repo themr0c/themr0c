@@ -28,5 +28,3 @@
 * IT infrastructure automation
 ** link:https://docs.ansible.com/ansible/latest/index.html[Ansible]
 ** link:https://kubernetes.io/docs/home/[Kubernetes]
-
-image::https://github-readme-stats.vercel.app/api?username=themr0c&show_icons=true&theme=transparent[Fabrice Flore-Thébault's GitHub stats]
